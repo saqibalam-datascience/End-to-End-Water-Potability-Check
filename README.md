@@ -1,4 +1,4 @@
-# End-to-End-Water-Potability-Check
+# End-to-End-Water-Potability-Check Using Machine Learning Algorithm
 
 :sassy_man: This is an End-To-End Machine learning model for predicting whether the water is safe for drinking or not with 100 % of accuracy.
 
