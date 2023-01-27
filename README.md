@@ -1,6 +1,6 @@
 # End-to-End-Water-Potability-Check Using Machine Learning Algorithm
 
-:sassy_man: This is an End-To-End Machine learning model for predicting whether the water is safe for drinking or not with 100 % of accuracy.
+:sassy_man: This is an End-To-End Machine learning model for predicting whether the water is safe for drinking or not with 70%  of accuracy.
 
 :mage: The features used in this project are Hardness, Solids, Chloramines, Conductivity, Organic_carbon,Turbidity, Potability, sulphate, trihalomethanes, ph level
 
